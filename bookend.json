@@ -8,17 +8,17 @@
     "Stories": [
       {
         "title": "Final match",
-        "url": "link",
+        "url": "basketball.html",
         "image": "assets/basketball.png"
       },
       {
         "title": "Arctic race",
-        "url": "link",
+        "url": "arctic.html",
         "image": "assets/arctic.gif"
       },
       {
-        "title": "Voice V/S touch",
-        "url": "link",
+        "title": "Voice versus touch",
+        "url": "voice.html",
         "image": "assets/voice.png"
       }
     ]
